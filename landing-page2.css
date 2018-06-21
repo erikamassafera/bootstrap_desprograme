@@ -1,0 +1,53 @@
+header.banner-home{
+	position: relative;
+  	background: url("../img/img-MastHead.png") no-repeat center center;
+  	padding-top: 48rem;
+  	padding-bottom: 5rem;
+  	background-size: cover;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background: cover;
+}
+
+body{
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+}
+
+row {
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px
+	margin-left: -15px;
+}
+
+
+a{
+	color: #ccc;
+	 font-size: 18px; 
+}
+
+a:hover{
+	color: #ccc;
+	font-size: 12px; 
+	font-weight: bold;
+    text-decoration: none;
+}
+
+footer{
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	margin-top: 20px;
+}
+
+.bg-darkBlue {
+	background:#0d1119 ;
+}
+
+.features
+{
+	margin-bottom: 15px;
+}
+
+.features-img {
+  min-height: 14rem;
